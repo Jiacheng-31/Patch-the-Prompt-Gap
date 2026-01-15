@@ -4,7 +4,7 @@ This repo implements an **RL-trained data rewriting agent** that rewrites downst
 We use **[VERL](https://github.com/volcengine/verl)** for on-policy RL with **GRPO-style group optimization**, and train the rewriter as a lightweight **LoRA “patch”** on top of a frozen instruction-tuned base model. Downstream SFT is done with **LLaMA-Factory** (no code changes, so it is not included here).
 
 <p align="center">
-  <img src="figure/framework.pdf" alt="Framework" width="900"/>
+  <img src="figure/framework.png" alt="Framework" width="900"/>
 </p>
 
 ---
