@@ -1,0 +1,47 @@
+# # mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_10/actor/lora_adapter 1b-lora/lora_adapter_step10
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_20/actor/lora_adapter 1b-lora/lora_adapter_step20
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_30/actor/lora_adapter 1b-lora/lora_adapter_step30
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_40/actor/lora_adapter 1b-lora/lora_adapter_step40
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_50/actor/lora_adapter 1b-lora/lora_adapter_step50
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_60/actor/lora_adapter 1b-lora/lora_adapter_step60
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_70/actor/lora_adapter 1b-lora/lora_adapter_step70
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_80/actor/lora_adapter 1b-lora/lora_adapter_step80
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_90/actor/lora_adapter 1b-lora/lora_adapter_step90
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_100/actor/lora_adapter 1b-lora/lora_adapter_step100
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_110/actor/lora_adapter 1b-lora/lora_adapter_step110
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_120/actor/lora_adapter 1b-lora/lora_adapter_step120
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_130/actor/lora_adapter 1b-lora/lora_adapter_step130
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_140/actor/lora_adapter 1b-lora/lora_adapter_step140
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_150/actor/lora_adapter 1b-lora/lora_adapter_step150
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_160/actor/lora_adapter 1b-lora/lora_adapter_step160
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_170/actor/lora_adapter 1b-lora/lora_adapter_step170
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_180/actor/lora_adapter 1b-lora/lora_adapter_step180
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_190/actor/lora_adapter 1b-lora/lora_adapter_step190
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_200/actor/lora_adapter 1b-lora/lora_adapter_step200
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_210/actor/lora_adapter 1b-lora/lora_adapter_step210
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_220/actor/lora_adapter 1b-lora/lora_adapter_step220
+
+# mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_230/actor/lora_adapter 1b-lora/lora_adapter_step230
+
+mv checkpoints/verl_grpo_rewriting_llama1b_lora/llama1b_rewriting_grpo_lora/global_step_240 1b-lora/
